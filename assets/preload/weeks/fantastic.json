@@ -1,0 +1,32 @@
+{
+	"storyName": "Tara The Android",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "home",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Surrealism",
+			"tara",
+			[
+				226,
+				193,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"tara",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "I Feel Fantastic"
+}
